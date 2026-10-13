@@ -9,13 +9,13 @@
   Иногда провожу МОК собеседования начинающим тестировщикам. 
 
 Технический стек:
- OS: MS Windows 10 | Android | IOS; 
- Bugtracking: JIRA | TestRail | TestIT 
- Test Management tools: Zephyr for JIRA | Confluence; 
- DataBases: PostgreSQL (DBeaver); 
- Message brokers: Kafka, RabbitMQ
- Web-testing tools: DevTools (Network, Application, Sources) | Figma | PerfectPixel;
- API-testing tools: Postman (коллекции, переменные, тест-скрипты на JS) | Swagger/OpenAPI | REST
- Mobile-testing tools: Android Studio | Fiddler | TestFlight | APK; 
- Logs: Elastic Kibana | OpenSearch | Grafana 
- VCS: GitLub
+- OS: MS Windows 10 | Android | IOS; 
+- Bugtracking: JIRA | TestRail | TestIT 
+- Test Management tools: Zephyr for JIRA | Confluence; 
+- DataBases: PostgreSQL (DBeaver); 
+- Message brokers: Kafka, RabbitMQ
+- Web-testing tools: DevTools (Network, Application, Sources) | Figma | PerfectPixel;
+- API-testing tools: Postman (коллекции, переменные, тест-скрипты на JS) | Swagger/OpenAPI | REST
+- Mobile-testing tools: Android Studio | Fiddler | TestFlight | APK; 
+- Logs: Elastic Kibana | OpenSearch | Grafana 
+- VCS: GitLub
