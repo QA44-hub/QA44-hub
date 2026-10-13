@@ -17,5 +17,7 @@
 - Web-testing tools: DevTools (Network, Application, Sources) | Figma | PerfectPixel;
 - API-testing tools: Postman (коллекции, переменные, тест-скрипты на JS) | Swagger/OpenAPI | REST
 - Mobile-testing tools: Android Studio | Fiddler | TestFlight | APK; 
-- Logs: Elastic Kibana | OpenSearch | Grafana 
+- Logs: Elastic Kibana | OpenSearch | Grafana
+- Automation Stack: Python | pytest | Appium | Allure | Android Studio | Android SDK | AVD-эмулятор | CMD
 - VCS: GitLub
+  
