@@ -20,6 +20,6 @@
 - API-testing tools: Postman (коллекции, переменные, тест-скрипты на JS) | Swagger/OpenAPI | REST
 - Mobile-testing tools: Android Studio | Fiddler | TestFlight | APK; 
 - Logs: Elastic Kibana | OpenSearch | Grafana
-- Automation Stack: Python | pytest | Appium | Playwright | Allure | Android Studio | Android SDK | AVD-эмулятор | CMD
+- Automation Stack: Python | pytest | Appium | Playwright | Allure | Docker | Kubernetess | Android Studio | Android SDK | AVD-эмулятор | CMD
 - VCS: GitLub
   
